@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e8ba00cc71d36bc4483047b5b25d04aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eva_handwriting
+  fontNames:
+  - Eva_handwriting
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e489c98005fae6c4fa8400959a707480, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

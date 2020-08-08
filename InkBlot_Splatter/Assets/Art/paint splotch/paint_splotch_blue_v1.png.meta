@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 6da934a388e717c4c88fb3746b735158
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1445734825092077778
+    second: paint_splotch_blue_v1_0
+  - first:
+      213: 3737223104982893291
+    second: paint_splotch_blue_v1_1
+  - first:
+      213: 1434175740108838805
+    second: paint_splotch_blue_v1_2
+  - first:
+      213: 5812245256232334878
+    second: paint_splotch_blue_v1_3
+  - first:
+      213: 6113091970086996834
+    second: paint_splotch_blue_v1_4
+  - first:
+      213: -3146770109180633541
+    second: paint_splotch_blue_v1_5
+  - first:
+      213: 7884791894913105008
+    second: paint_splotch_blue_v1_6
+  - first:
+      213: -8726381742014244392
+    second: paint_splotch_blue_v1_7
+  - first:
+      213: -4390171477080426543
+    second: paint_splotch_blue_v1_8
+  - first:
+      213: -2404390621094970959
+    second: paint_splotch_blue_v1_9
+  - first:
+      213: -3280823632127314870
+    second: paint_splotch_blue_v1_10
+  - first:
+      213: 5656036797794356105
+    second: paint_splotch_blue_v1_11
+  - first:
+      213: -4238980173290076020
+    second: paint_splotch_blue_v1_12
+  - first:
+      213: 3488026470715203203
+    second: paint_splotch_blue_v1_13
+  - first:
+      213: 5392216688229915750
+    second: paint_splotch_blue_v1_14
+  - first:
+      213: 8489780416258374863
+    second: paint_splotch_blue_v1_15
+  - first:
+      213: -7426026289483053566
+    second: paint_splotch_blue_v1_16
+  - first:
+      213: 3765785048067103434
+    second: paint_splotch_blue_v1_17
+  - first:
+      213: -811872653783628007
+    second: paint_splotch_blue_v1_18
+  - first:
+      213: -4375659992322693295
+    second: paint_splotch_blue_v1_19
+  - first:
+      213: -6949664412995764931
+    second: paint_splotch_blue_v1_20
+  - first:
+      213: -3524088981540495066
+    second: paint_splotch_blue_v1_21
+  - first:
+      213: 7754272197042919259
+    second: paint_splotch_blue_v1_22
+  - first:
+      213: 3039388467986381901
+    second: paint_splotch_blue_v1_23
+  - first:
+      213: -1949030955119077673
+    second: paint_splotch_blue_v1_24
+  - first:
+      213: 8373208110909109835
+    second: paint_splotch_blue_v1_25
+  - first:
+      213: -6111922740831296166
+    second: paint_splotch_blue_v1_26
+  - first:
+      213: 8514222577776989799
+    second: paint_splotch_blue_v1_27
+  - first:
+      213: 8005147825148011051
+    second: paint_splotch_blue_v1_28
+  - first:
+      213: 6337721554275976127
+    second: paint_splotch_blue_v1_29
+  - first:
+      213: -7716683640990820912
+    second: paint_splotch_blue_v1_30
+  - first:
+      213: -5192400132177559950
+    second: paint_splotch_blue_v1_31
+  - first:
+      213: 7157144518159640248
+    second: paint_splotch_blue_v1_32
+  - first:
+      213: -3379302365938938773
+    second: paint_splotch_blue_v1_33
+  - first:
+      213: 4580739678973338882
+    second: paint_splotch_blue_v1_34
+  - first:
+      213: -8123058999392059254
+    second: paint_splotch_blue_v1_35
+  - first:
+      213: -1421034996394697488
+    second: paint_splotch_blue_v1_36
+  - first:
+      213: -1425887084742283778
+    second: paint_splotch_blue_v1_37
+  - first:
+      213: -8118195159224044724
+    second: paint_splotch_blue_v1_38
+  - first:
+      213: -5065850258049849255
+    second: paint_splotch_blue_v1_39
+  - first:
+      213: -1673020269172564057
+    second: paint_splotch_blue_v1_40
+  - first:
+      213: 7935172659303015472
+    second: paint_splotch_blue_v1_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paint_splotch_blue_v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85601e928401410800000000000000
+      internalID: 1445734825092077778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paint_splotch_blue_v1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be243e20d984dd330800000000000000
+      internalID: 3737223104982893291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paint_splotch_blue_v1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979baeac3737e310800000000000000
+      internalID: 1434175740108838805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paint_splotch_blue_v1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 37
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167d25144e39a050800000000000000
+      internalID: 5812245256232334878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paint_splotch_blue_v1_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 10
+        width: 100
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b045c12c016d450800000000000000
+      internalID: 6113091970086996834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
